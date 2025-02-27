@@ -1,0 +1,19 @@
+{
+    "name": "vertanzil/skeleton-template",
+    "description": "Skeleton PHP System",
+    "type": "project",
+    "license": "Apache 2.0",
+    "autoload": {
+        "psr-4": {
+            "Vertanzil\\SkeletonTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kyle Smith",
+            "email": "73062855+vertanzil@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
