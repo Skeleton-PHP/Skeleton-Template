@@ -1,2 +1,2 @@
-# PHP-Template
+# Skeleton-Template
 PHP Templating System.
